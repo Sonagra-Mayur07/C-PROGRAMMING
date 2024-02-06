@@ -1,0 +1,109 @@
+(1). What is software?
+
+Anc:-
+software is a set of instructions, data, or programs used to operate a
+computer and execute specific tasks. In simpler terms, software tells a
+computer how to function. It’s a generic term used to refer to
+applications, scripts, and programs that run on devices such as PCs,
+mobile phones, tablets, and other smart devices. Software contrasts
+with hardware, which is the physical aspects of a computer that
+perform the work. (1)System Software,(2) Application Software
+
+
+<---------------------------------------------------------->
+
+
+
+(2). Types ofsoftware?
+
+Anc:-
+there are different types of software based on their classification
+however, if we broadly classify the types of software in a computer,
+there are two major types as listed below:
+
+*system softwere
+*application softwere
+
+
+<---------------------------------------------------------->
+
+
+
+(3).What is Software Development Methodology? 
+
+Anc:-
+
+Software Development Methodology refers to a systematic approach or framework used in the process of planning, structuring, designing, implementing, testing, deploying, and maintaining an information system.
+It provides a structured process for developing software, guiding the development team through various phases to ensure that the end product meets the desired quality, functionality, and efficiency.
+
+
+there are 7 steps software devlopment methodology:-
+
+(1)requirement
+(2)analysis
+(3)designing
+(4)devlopment
+(5)testing
+(6)deployment
+(7)maintanance
+
+
+<---------------------------------------------------------->
+
+
+Intermediate :-
+
+(1) What isthe differencebetweenApplicationsoftwareandsystem software?
+
+Anc:-
+
+
+The main differences between application software and system software lie in their purposes, functions, and interactions within a computer system. Here's a concise breakdown of the distinctions:
+
+
+System Software:
+Primarily responsible for managing and controlling computer hardware.
+It provides a platform for running application software and facilitates communication between hardware and software components.
+
+Application Software:
+Designed to perform specific tasks for end-users, addressing their needs and requirements.
+
+
+<---------------------------------------------------------->
+
+
+(2).Explain the SDLC Each faceProcess?
+
+Anc:-
+The Software Development Life Cycle (SDLC) refers to a methodology
+with clearly defined processes for creating high-quality software. in
+detail, the SDLC methodology focuses on the following phases of
+software development:
+
+*Requirement analysis
+*Planning
+*Software design such as architectural design
+*Software development
+*Testing
+*Deployment
+*maintanance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
