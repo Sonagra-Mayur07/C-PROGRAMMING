@@ -1,4 +1,4 @@
-a
+
 	Algorithms : It is a process of following step-by-step is called Algorithms.
 
 	Q 1) Create an Algorithm of making a Tea.
